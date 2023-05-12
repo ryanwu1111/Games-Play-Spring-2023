@@ -1,16 +1,7 @@
-## SOLUCIÓN PARCIAL
+**2D Adventure Game** 
 
-#### Contenido:
+For this 2D adventure game assignment, I decided to create an entirely new story and coded all of the nodes together by myself. The game is revolved around the player being lost inside a room and has look for different clues and hints to escape. 
 
-* Todo el código contenido en los materiales.
-* El esqueleto del proyecto en Unity con algunos elementos ya implementados para utilizar como base.
-
-
-#### Objetivos:
-
-* El objetivo de este proyecto es utilizarlo como base para crear el juego de ejemplo desarrollado en los materiales.
-* Los estudiantes deben completar las partes que faltan:
- * Código.
- * Crear elementos en la jerarquía de la escena.
- * Crear prefabs.
- * Rellenar referencias vacías.
+**Images** 
+![](adventure1.png)
+![](adventure2.png)
