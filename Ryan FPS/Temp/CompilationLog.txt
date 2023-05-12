@@ -1,84 +1,84 @@
 # Starting compiling UnityEngine.TestRunner.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1305c74529b6d4d42b4f5f977dfac770
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2e2548b86e58c43c0a9fb6043ab56e6c
 # Starting compiling UnityEngine.UI.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-652178b4c34694ce89131c3f9dc0d21b
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-efe031dbdb3dd4cfb944c08e34913f41
 # Starting compiling UnityEditor.TestRunner.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a0ea216ddbb724c8dbebaeddf20d684e
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b903256ea27eb4d80a70bef267067310
 # Starting compiling UnityEditor.UI.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0d07d3e1dcdb140bdbddc6b4683ee583
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3c42ed9e47748486f9e77926a63a3bb2
 # Starting compiling Purchasing.Common.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4b13152e092c145b4bc826a3536399bf
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ec60b528ded02450eb25f5c725aa10ef
 # Starting compiling Unity.VSCode.Editor.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1e93f962649e3428aa67f617b450b547
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c1fe38f7206d04127a9609b35067f682
 # Starting compiling Unity.2D.Tilemap.Editor.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b7cc54d7e80714d478595dea6797e445
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ce5fc2551bdca4b3a95efb528c573f37
 # Starting compiling UnityEngine.Purchasing.WinRTCore.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-28727fbb332bb4f3ea8298272f2149e8
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b5edd21decd9d4f4ba734993cd021d94
 # Starting compiling Unity.VisualStudio.Editor.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-26eecf7839d494f33878045c37975fdd
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e2645f18b3da94a38a6ba4316d253b7a
 # Starting compiling Unity.Timeline.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-23a34c68d674f482b868f78bc53597dc
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8295bd23ffc384d52b7eb0578cd82aca
 # Starting compiling Unity.TextMeshPro.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b65fbfa702bb14659bc61041d0d64eba
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e3e664daa4de348a9b935a22f61ed3ce
 # Starting compiling UnityEngine.Advertisements.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-94c88c5e47b4d453ab5c41b58966c411
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2233c9288906a4f18bafbf9483abf33c
 # Starting compiling Unity.2D.Sprite.Editor.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9c9537beb16d245a68e7ffc0b9a5c960
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-256d7b46bdb2e46fa8876036d8df4125
 # Starting compiling Unity.PlasticSCM.Editor.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a56967b1fe3c543bfa90b36cd4621253
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-22ae26a0d02044899a83f85fdaa03cee
 # Starting compiling com.unity.multiplayer-weaver.Editor.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e4781c5e2714647598ca0185a3aae2de
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7a20451b14771421992e022be34ce4b6
 # Starting compiling Unity.Rider.Editor.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0d470c5fb3a50439a87ba26b7716cbed
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e468f8fc1bdbb4ed79d3d7f9a6970425
 # Starting compiling Analytics.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d18a327ac844b40589b258d9a05e3ed2
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d3c7fb3f19e3b4d10b94a9b83044cd49
 # Starting compiling UnityEngine.SpatialTracking.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-5f7c41556d8474fd6b2c34c4ac298c53
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7414a81d41b3b4d42bd189ff0f4cdbf8
 # Starting compiling Unity.Analytics.DataPrivacy.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f424b35bfa756494ab38afe1c4b0aabe
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d9e5a0a02e0e042bda4060d914088384
 # Starting compiling com.unity.multiplayer-hlapi.Runtime.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6dae68fb409e544f4a23a139d37f8f03
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6cb08d938ba644efda2b14a03c46b785
 # Starting compiling UnityEngine.Purchasing.SecurityCore.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-56493b782993041b79e7e18e07c37ab2
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2f7fd8a77ba924acba150c5978ad4546
 # Starting compiling Unity.CollabProxy.Editor.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e5e6060d623e84cc38b054d0559b4006
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4e89ff6888f15446fb70f1ce6285857a
 # Starting compiling UnityEngine.Advertisements.DevX.Editor.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a7b670e5a597f416ba56f84fb69ca14a
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3a450f7421a054e0e9f05aff780375e9
 # Starting compiling UnityEngine.Advertisements.Editor.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d6c6431f8592a48aaa73d737e3a863d7
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-206ae8d5aa31c4e79963d97b8749d747
 # Starting compiling UnityEngine.Purchasing.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c13dadda788bd48508f408cdb4df38a7
-# Starting compiling UnityEngine.Purchasing.WinRTStub.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-80806015caa7a470f8b7369b09368578
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-5174c0e3af19f4ad9bc7c01e8a6d5eb0
 # Starting compiling UnityEngine.Purchasing.AppleCore.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0e71f9d0a4b974598befbef7ec819617
-# Starting compiling Unity.Timeline.Editor.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0a95a9f5f7f564ba6b9f41a6b5451502
-# Starting compiling UnityEngine.Purchasing.SecurityStub.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7c295b6f61c7748ca9a7cf35a499a654
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-606db8edebf5945c3bae3d6d453d2d77
+# Starting compiling UnityEngine.Purchasing.WinRTStub.dll
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-32c25189378864e3a8812c9122c2153a
 # Starting compiling UnityEngine.Monetization.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-eb1b97b71992e410db94002d9c5e5f7d
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-58e80bfb8b0c24984a1e3f6acc3b877b
 # Starting compiling UnityEngine.XR.LegacyInputHelpers.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-eaccc5fecf61348a69f87f1bbe22352d
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-87ff39b286d324344b034e5d7a5d1bb8
 # Starting compiling UnityEditor.SpatialTracking.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-22ea9fe9fd96d424eb2881fbb558cec1
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c16f68986c3894da6ae066f09f2e0570
+# Starting compiling UnityEngine.Purchasing.SecurityStub.dll
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-094294fa516744391adead6de4afd83f
+# Starting compiling Unity.Timeline.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a619c7388c2f3474bbc5f05e3752a590
 # Starting compiling UnityEngine.Purchasing.AppleMacosStub.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0f999ea04b8554268922ef1dfe438346
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6329e31b2b53e4a98a72d06c254ed44e
 # Starting compiling UnityEngine.Purchasing.AppleStub.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-05821f176e06b43cab94430c92e8fbeb
-# Starting compiling com.unity.multiplayer-hlapi.Editor.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9f9b58453a1884dcba51199ccc6a1255
-# Starting compiling Unity.TextMeshPro.Editor.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f001337036dd549a2a52101a81e184e3
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7d382dfaa4d764aea9daf8f8a4727f19
 # Starting compiling UnityEditor.XR.LegacyInputHelpers.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6088a3518726b4a0f84ea2c7508e2c09
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c0d55616a90794ef7ade403f4abd669d
+# Starting compiling com.unity.multiplayer-hlapi.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-bff33c27984464f8199bf2a316c58ff2
+# Starting compiling Unity.TextMeshPro.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-888be0a1d07da420c8092db57058c778
 # Starting compiling UnityEngine.Purchasing.Stores.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-beb201bb540bf4a619c2ace81e99709b
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-28fc5925b1e7149be833e0f98ca46fc9
 # Starting compiling UnityEngine.Purchasing.Codeless.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-804b27161acd74e9389536c9e6a066ac
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b3961d6a1338f49a79012ad111fe9707
 # Starting compiling UnityEditor.Purchasing.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-55444777b1aa74a8695227ed9a7c8d00
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0a2fbb7996d134745b735234ff7a2af6
 # Starting compiling Assembly-CSharp.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-64f10ba4f32bf4b50b2ff6fbda554159
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-817ec54cd8af04b7ab7681e04004fcc3
 # Starting compiling Assembly-CSharp-Editor.dll
-/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-40049811611ba4f4b9376cc9e48d0086
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0e690f3425fcb4092a77c62a7fdddffe
