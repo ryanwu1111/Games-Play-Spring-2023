@@ -1,0 +1,635 @@
+Unity Editor version:    2020.3.17f1 (a4537701e4ab)
+Branch:                  2020.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 11.7 (Build 20G817)
+Darwin version:          20.6.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        65536 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+/Users/nyuad/Downloads/Games-and-Play-main/Carracing
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+56290
+Successfully changed project path to: /Users/nyuad/Downloads/Games-and-Play-main/Carracing
+/Users/nyuad/Downloads/Games-and-Play-main/Carracing
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 254.10 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.17f1 (a4537701e4ab)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/nyuad/Downloads/Games-and-Play-main/Carracing/Assets
+GfxDevice: creating device client; threaded=0
+2023-05-12 15:21:06.515 Unity[18854:2304615] iMac preferred device: AMD Radeon Pro Vega 64X (high power)
+2023-05-12 15:21:06.515 Unity[18854:2304615] Metal devices available: 1
+2023-05-12 15:21:06.515 Unity[18854:2304615] 0: AMD Radeon Pro Vega 64X (high power)
+2023-05-12 15:21:06.517 Unity[18854:2304615] Using device AMD Radeon Pro Vega 64X (high power)
+Initializing Metal device caps: AMD Radeon Pro Vega 64X
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56854
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.17f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.011183 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 195.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  9.342 seconds
+Domain Reload Profiling:
+	ReloadAssembly (9342ms)
+		BeginReloadAssembly (319ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (1829ms)
+			LoadAssemblies (319ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (773ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (156ms)
+			SetupLoadedEditorAssemblies (715ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (196ms)
+				BeforeProcessingInitializeOnLoad (39ms)
+				ProcessInitializeOnLoadAttributes (345ms)
+				ProcessInitializeOnLoadMethodAttributes (119ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.013557 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 5.97 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.972 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3975ms)
+		BeginReloadAssembly (497ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (17ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (58ms)
+		EndReloadAssembly (3272ms)
+			LoadAssemblies (341ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1115ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (206ms)
+			SetupLoadedEditorAssemblies (1324ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (6ms)
+				BeforeProcessingInitializeOnLoad (186ms)
+				ProcessInitializeOnLoadAttributes (961ms)
+				ProcessInitializeOnLoadMethodAttributes (151ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (26ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.081225 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.148215 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Initializing Unity extensions:
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 1.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2243 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 232.4 MB.
+System memory in use after: 231.9 MB.
+
+Unloading 246 unused Assets to reduce memory usage. Loaded Objects now: 2823.
+Total: 29.242270 ms (FindLiveObjects: 0.657803 ms CreateObjectMapping: 0.341368 ms MarkObjects: 12.895524 ms  DeleteObjects: 15.345219 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Cars Movie Sign/LuigiDetails.png
+  artifactKey: Guid(9c0bb80c188034c4c99206c4c2368bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign/LuigiDetails.png using Guid(9c0bb80c188034c4c99206c4c2368bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa43902dcd20d7cdc1e0fabd020adcc6') in 1.327942 seconds 
+  Import took 1.335389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004545 seconds.
+  path: Assets/Cars Movie Sign/max2.png
+  artifactKey: Guid(014828d3393fc4ee28a85d3df4b61fe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign/max2.png using Guid(014828d3393fc4ee28a85d3df4b61fe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9d5bea77268b559d3143774b201d74c') in 0.012941 seconds 
+  Import took 0.020335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/Cars Movie Sign/light2_L1.png
+  artifactKey: Guid(244246f13e4a94007b7d947b13259e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign/light2_L1.png using Guid(244246f13e4a94007b7d947b13259e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e3b5c3578797e1f1f7486e099d67d4b') in 0.016155 seconds 
+  Import took 0.022770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Cars Movie Sign/Rice2.png
+  artifactKey: Guid(774c5d317ab2e4185a264cf10c278b48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign/Rice2.png using Guid(774c5d317ab2e4185a264cf10c278b48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '408c386c7ef1faa20c5f849808a368c0') in 0.012124 seconds 
+  Import took 0.018166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Cars Movie Sign/light1_L1.png
+  artifactKey: Guid(37f2daa2660894970a081463d61761d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign/light1_L1.png using Guid(37f2daa2660894970a081463d61761d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dadd4740bef3f31c8760c0d246c273b') in 0.015173 seconds 
+  Import took 0.021220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000986 seconds.
+  path: Assets/Cars Movie Sign/tai.png
+  artifactKey: Guid(f9d6f2a09a9454a59be033fa338d138b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign/tai.png using Guid(f9d6f2a09a9454a59be033fa338d138b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37a8d58ad955641d4d1e32788702f111') in 0.013451 seconds 
+  Import took 0.021049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Cars Movie Sign/ricewheels.png
+  artifactKey: Guid(7690cfd842da8462999a45c898a7c0fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign/ricewheels.png using Guid(7690cfd842da8462999a45c898a7c0fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a25f834c315192ca7725f7372e8a58a8') in 0.014996 seconds 
+  Import took 0.021322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Cars Movie Sign/fran_wheel.png
+  artifactKey: Guid(743f5adcd672f4ec6b6ff2d1d1dc82d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign/fran_wheel.png using Guid(743f5adcd672f4ec6b6ff2d1d1dc82d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aae636b230a7fad3d6670f74e967513c') in 0.013995 seconds 
+  Import took 0.020205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000544 seconds.
+  path: Assets/Cars Movie Sign/mater1_lod0.png
+  artifactKey: Guid(2004482b1c50949ea82651991ed256ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign/mater1_lod0.png using Guid(2004482b1c50949ea82651991ed256ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85b89d6b12f28502ab9b524f75a78a23') in 0.029841 seconds 
+  Import took 0.059047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000442 seconds.
+  path: Assets/Cars Movie Sign/aluminum-background.jpeg
+  artifactKey: Guid(b51d56af9c97b429c8819265d62e902c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign/aluminum-background.jpeg using Guid(b51d56af9c97b429c8819265d62e902c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad3a6b123ee2302179196f50c191edc9') in 2.128007 seconds 
+  Import took 2.134554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004412 seconds.
+  path: Assets/Cars Movie Sign/disney-pixar-cars-logo_349593.jpeg
+  artifactKey: Guid(298feefd033fb4161b068115c6ad678a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign/disney-pixar-cars-logo_349593.jpeg using Guid(298feefd033fb4161b068115c6ad678a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f25267e1daf6c1b76b3462bbae51937e') in 0.016102 seconds 
+  Import took 0.022196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000419 seconds.
+  path: Assets/Cars Movie Sign/L_Wheel.png
+  artifactKey: Guid(7dc339b8111614c27a270f967482a9c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign/L_Wheel.png using Guid(7dc339b8111614c27a270f967482a9c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62790cd81eca1458662ec5100861e64a') in 0.015199 seconds 
+  Import took 0.021013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000421 seconds.
+  path: Assets/Cars Movie Sign/Pupil.png
+  artifactKey: Guid(2a27aa6128a494413a528be8b5047064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign/Pupil.png using Guid(2a27aa6128a494413a528be8b5047064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74e9af496fcdab52623bfa0ee7828cb7') in 0.016206 seconds 
+  Import took 0.022112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Cars Movie Sign
+  artifactKey: Guid(e65038c4506204d11b8477846bbeff1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign using Guid(e65038c4506204d11b8477846bbeff1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcca04b8dc20ca7f1bd4812a356fd9ff') in 0.002840 seconds 
+  Import took 0.008658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Cars Movie Sign/fran_body2.png
+  artifactKey: Guid(c30ccb431c4814d5fa8184b2c0bd9027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign/fran_body2.png using Guid(c30ccb431c4814d5fa8184b2c0bd9027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '424cdfdbb310384e6cdfe52c7e02846b') in 0.015309 seconds 
+  Import took 0.021266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Cars Movie Sign/RadiatorSprings.blend
+  artifactKey: Guid(d1d2914f6cc3945f4b304af442397b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign/RadiatorSprings.blend using Guid(d1d2914f6cc3945f4b304af442397b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be421fe11c51336723597a1910833325') in 1.179108 seconds 
+  Import took 1.185339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004834 seconds.
+  path: Assets/Cars Movie Sign/mater2_lod0.png
+  artifactKey: Guid(2b8bc0d30fa4a4e628509d78b5048d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign/mater2_lod0.png using Guid(2b8bc0d30fa4a4e628509d78b5048d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4c8387a1a2d07be9ed981066fe82038') in 0.015153 seconds 
+  Import took 0.021954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000453 seconds.
+  path: Assets/Cars Movie Sign/maxwheel.png
+  artifactKey: Guid(04b19586fbb1a4337bcd1a1b76061361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign/maxwheel.png using Guid(04b19586fbb1a4337bcd1a1b76061361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea802f4f6417e4e3c31e399eb8efe8d7') in 0.015952 seconds 
+  Import took 0.023567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000529 seconds.
+  path: Assets/Cars Movie Sign/cactus2.png
+  artifactKey: Guid(609bd5954453349e0a3cd8e335e5360f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign/cactus2.png using Guid(609bd5954453349e0a3cd8e335e5360f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00c389e56cebbf5d7c1b98c13a40350e') in 0.017913 seconds 
+  Import took 0.024568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Cars Movie Sign/fran_body1.png
+  artifactKey: Guid(ac3449f51f3824d9c909888437c8cd98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign/fran_body1.png using Guid(ac3449f51f3824d9c909888437c8cd98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6755e30de95e5683b04a1e33acd0bec1') in 0.015068 seconds 
+  Import took 0.021900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/Cars Movie Sign/lightwheel_L1.png
+  artifactKey: Guid(c9f94225f25924bb6a2a9bdf8869b627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign/lightwheel_L1.png using Guid(c9f94225f25924bb6a2a9bdf8869b627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16812619e2aef23f6dde4cbb3b0d418b') in 0.014975 seconds 
+  Import took 0.022011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000421 seconds.
+  path: Assets/Cars Movie Sign/seamlessroad.jpeg
+  artifactKey: Guid(024eeba80381d4f0388ce06d4faaab94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign/seamlessroad.jpeg using Guid(024eeba80381d4f0388ce06d4faaab94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fc53b7c9563212278c6fa7e258ade1c') in 0.036212 seconds 
+  Import took 0.043653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000520 seconds.
+  path: Assets/Cars Movie Sign/max1.png
+  artifactKey: Guid(9b9ea06acf9ab4d84b426e8242b7201b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign/max1.png using Guid(9b9ea06acf9ab4d84b426e8242b7201b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13879d54fdf08925471a67c7c7ffab12') in 0.014445 seconds 
+  Import took 0.021656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/Cars Movie Sign/wheel_lod0.png
+  artifactKey: Guid(0bdc0c4060feb49879def8bb2c8a827e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign/wheel_lod0.png using Guid(0bdc0c4060feb49879def8bb2c8a827e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e08a7f2e11c989d20b657189ba1dd43') in 0.013724 seconds 
+  Import took 0.021055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/Cars Movie Sign/Rice1.png
+  artifactKey: Guid(11651d9f1834d4f10847fe0e9aff9cbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign/Rice1.png using Guid(11651d9f1834d4f10847fe0e9aff9cbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0356dda1d5b342d339f62e9389d364bc') in 0.021862 seconds 
+  Import took 0.029130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000447 seconds.
+  path: Assets/Cars Movie Sign/luigisBody.png
+  artifactKey: Guid(ef4fcca8a48884252bc4cd5716d91eb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign/luigisBody.png using Guid(ef4fcca8a48884252bc4cd5716d91eb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2413d91fef79e0086610b70efe5ab3c8') in 0.015023 seconds 
+  Import took 0.063685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008960 seconds.
+  path: Assets/Cars Movie Sign/RadiatorSprings.png
+  artifactKey: Guid(3350460f81a0047e5886e4803361827e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign/RadiatorSprings.png using Guid(3350460f81a0047e5886e4803361827e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b1a681871069feac48d7d33751ffb80') in 0.069958 seconds 
+  Import took 0.077034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016094 seconds.
+  path: Assets/Cars Movie Sign/RadiatorSprings.png
+  artifactKey: Guid(3350460f81a0047e5886e4803361827e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Sign/RadiatorSprings.png using Guid(3350460f81a0047e5886e4803361827e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b1a681871069feac48d7d33751ffb80') in 0.014439 seconds 
+  Import took 0.022017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.002591 seconds.
+  path: Assets/Cars Movie Logo/Cars_logo_1.obj
+  artifactKey: Guid(122a7b56e34504e78b8e4c3b027c6edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Logo/Cars_logo_1.obj using Guid(122a7b56e34504e78b8e4c3b027c6edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87030bab054548bf5cc8712a513b6353') in 0.715104 seconds 
+  Import took 0.721398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.690805 seconds.
+  path: Assets/Cars Movie Logo/aluminum-background.jpg
+  artifactKey: Guid(fb48d746576c941ea89d52435d5bff40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Logo/aluminum-background.jpg using Guid(fb48d746576c941ea89d52435d5bff40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ebbce9c0d1f2c80163fe60485cc9057') in 1.233005 seconds 
+  Import took 1.238299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003682 seconds.
+  path: Assets/Cars Movie Logo/disney-pixar-cars-logo_349593.jpg
+  artifactKey: Guid(bd808acd9d8554e04a0b2e183967354d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Logo/disney-pixar-cars-logo_349593.jpg using Guid(bd808acd9d8554e04a0b2e183967354d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '470dfc337d6300289ef9e1b9163f12fe') in 0.011381 seconds 
+  Import took 0.016508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.058691 seconds.
+  path: Assets/Cars Movie Logo
+  artifactKey: Guid(e65038c4506204d11b8477846bbeff1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Logo using Guid(e65038c4506204d11b8477846bbeff1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e738c3e0af40708cc1dbc5ed8902385') in 0.002189 seconds 
+  Import took 0.007340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.282754 seconds.
+  path: Assets/Cars Movie Logo/Cars Logo.mat
+  artifactKey: Guid(15293ea816d9641f3a1e0825d89ee0fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cars Movie Logo/Cars Logo.mat using Guid(15293ea816d9641f3a1e0825d89ee0fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbfbce630d24f836ebfe1f261a18229c') in 0.576836 seconds 
+  Import took 0.582657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 273.904957 seconds.
+  path: Assets/Scripts/Logo Spin.cs
+  artifactKey: Guid(544e57cad555444fdaea4aeecc4300f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Logo Spin.cs using Guid(544e57cad555444fdaea4aeecc4300f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a437691a303d10981450c99b0cb9cf76') in 0.652352 seconds 
+  Import took 0.658686 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.067893 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.605 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1606ms)
+		BeginReloadAssembly (251ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (71ms)
+		EndReloadAssembly (1280ms)
+			LoadAssemblies (303ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (468ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (64ms)
+			SetupLoadedEditorAssemblies (436ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (97ms)
+				ProcessInitializeOnLoadAttributes (293ms)
+				ProcessInitializeOnLoadMethodAttributes (38ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2214 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 258.7 MB.
+System memory in use after: 258.4 MB.
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 2874.
+Total: 7.910555 ms (FindLiveObjects: 0.341324 ms CreateObjectMapping: 0.107400 ms MarkObjects: 6.893273 ms  DeleteObjects: 0.567498 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008346 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.364 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1365ms)
+		BeginReloadAssembly (185ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (65ms)
+		EndReloadAssembly (1113ms)
+			LoadAssemblies (158ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (370ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (54ms)
+			SetupLoadedEditorAssemblies (461ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (102ms)
+				ProcessInitializeOnLoadAttributes (311ms)
+				ProcessInitializeOnLoadMethodAttributes (40ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2214 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 259.0 MB.
+System memory in use after: 258.7 MB.
+
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 2876.
+Total: 7.419727 ms (FindLiveObjects: 0.325902 ms CreateObjectMapping: 0.126361 ms MarkObjects: 6.364490 ms  DeleteObjects: 0.601773 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 195.969318 seconds.
+  path: Assets/Scripts/Logo Spin.cs
+  artifactKey: Guid(544e57cad555444fdaea4aeecc4300f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Logo Spin.cs using Guid(544e57cad555444fdaea4aeecc4300f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2baffedf1691e2658e95a8b9d091623c') in 0.006582 seconds 
+  Import took 0.010844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 846.763385 seconds.
+  path: Assets/Materials/light1_L1.png
+  artifactKey: Guid(b2ef700b6a61a431c85542a93b25cb8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/light1_L1.png using Guid(b2ef700b6a61a431c85542a93b25cb8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6906541107b39c6e0c40038cf31ee6f') in 0.032471 seconds 
+  Import took 0.037195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Materials/light2_L1.png
+  artifactKey: Guid(86f3a85207c194465b8b4db3c4cac2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/light2_L1.png using Guid(86f3a85207c194465b8b4db3c4cac2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45d90518b537f5e619b3344c31caa64d') in 0.010236 seconds 
+  Import took 0.014399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.341779 seconds.
+  path: Assets/Materials/lightwheel_L1.png
+  artifactKey: Guid(5ab871f87c9c14d9f8b58b3fad92a2cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/lightwheel_L1.png using Guid(5ab871f87c9c14d9f8b58b3fad92a2cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7c9791156e0e5846d9ab1d287abcd6d') in 0.012665 seconds 
+  Import took 0.017363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.106622 seconds.
+  path: Assets/Materials/wheels.mat
+  artifactKey: Guid(432043918977146439724382e79fc01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/wheels.mat using Guid(432043918977146439724382e79fc01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36c1bd71aad8ae7a622807285ff5dc30') in 0.037632 seconds 
+  Import took 0.042026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 581.501334 seconds.
+  path: Assets/Materials/wheels.mat
+  artifactKey: Guid(432043918977146439724382e79fc01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/wheels.mat using Guid(432043918977146439724382e79fc01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75a9b5a7eeb664b55e5adfa4a2c59594') in 0.017388 seconds 
+  Import took 0.023069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2194.351589 seconds.
+  path: Assets/Materials/Rampaging T-Rex.glb
+  artifactKey: Guid(9f0202486984b4a27a616f4d16806598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Rampaging T-Rex.glb using Guid(9f0202486984b4a27a616f4d16806598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd4827ba2ce84839db5062777ca6ef98') in 0.259806 seconds 
+  Import took 0.264334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.046969 seconds.
+  path: Assets/Materials/1cdcbafa2e0f43b38064742f57edc407.rar.rar
+  artifactKey: Guid(ce0e444706f7d47b4b2025f58c15a85c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/1cdcbafa2e0f43b38064742f57edc407.rar.rar using Guid(ce0e444706f7d47b4b2025f58c15a85c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7df6cc4e70052bc4db74e3ed8220349') in 0.381262 seconds 
+  Import took 0.385633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 333.742194 seconds.
+  path: Assets/Materials/Rampaging T-Rex.fbx
+  artifactKey: Guid(ff1fbe605b6db4f3189074d652adead2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Rampaging T-Rex.fbx using Guid(ff1fbe605b6db4f3189074d652adead2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de25fbcfb3ce67183c5de86f583556a6') in 0.796162 seconds 
+  Import took 0.800816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.230322 seconds.
+  path: Assets/Materials/TREX_lowPoly.jpeg
+  artifactKey: Guid(d14eb61ca2dae41dca05da26621a871c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/TREX_lowPoly.jpeg using Guid(d14eb61ca2dae41dca05da26621a871c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03bfead88c4bd3a3c4e1bddb934c35f8') in 0.015891 seconds 
+  Import took 0.020237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.810500 seconds.
+  path: Assets/Materials/trex.mat
+  artifactKey: Guid(8418df260ddb742e3bdacc4908e141ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/trex.mat using Guid(8418df260ddb742e3bdacc4908e141ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8a6b63fd92bb1d4e85360a63c028b1d') in 0.015025 seconds 
+  Import took 0.019583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 126.316226 seconds.
+  path: Assets/Materials/trex.mat
+  artifactKey: Guid(8418df260ddb742e3bdacc4908e141ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/trex.mat using Guid(8418df260ddb742e3bdacc4908e141ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01117293a4e8eba32a1627509e573af5') in 0.025322 seconds 
+  Import took 0.030909 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
